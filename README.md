@@ -44,8 +44,8 @@ This repository contains:
 
 ## Build Instructions
 
-1. Clone this repo using `git clone https://github.com/avnishsachar/CppND-Program-Capstone-Project.git`.
-2. Enter the root directory of the repository using `cd CppND-Program-Capstone-Project`.
+1. Clone this repo using `git clone https://github.com/avnishsachar/CppND-Program-Capstone-Project.git`
+2. Enter the root directory of the repository using `cd CppND-Program-Capstone-Project`
 3. `cd model`
 4. `sudo chmod a+x getModel.sh`
 5. `./getModel.sh`
