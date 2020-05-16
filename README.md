@@ -60,7 +60,7 @@ The executable(`objectdetector`) is created in the current directory(`build`).
 
 In `build` directory, run the executable like below:
 
-`./objectdetector [options] --image=<image-file>`
+`./objectdetector [options] --input=<image-file>`
 
 - `<image-file>` is the **absolute file path with no preceding space** to the image you want to input.
 - Options:
